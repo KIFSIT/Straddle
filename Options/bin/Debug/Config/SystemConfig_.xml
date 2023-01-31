@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ApplicationName>BankNifty</ApplicationName>
+  <NseCmBroadcastIp>233.1.2.5</NseCmBroadcastIp>
+  <NseCmBroadcastPort>34074</NseCmBroadcastPort>
+  <NseFoBroadcastIp>233.1.2.5</NseFoBroadcastIp>
+  <NseFoBroadcastPort>34330</NseFoBroadcastPort>
+  <MarketDataIP>172.16.2.183</MarketDataIP>
+  <MarketDataPort>3535</MarketDataPort>
+  <RMSIP>172.16.2.153</RMSIP>
+  <RMSPort>4001</RMSPort>
+  <GUIid>0</GUIid>
+  <UserName>Vinod</UserName>
+  <Uniqueid>25</Uniqueid>
+  <Gateway>172.16.2.183</Gateway>
+  <Type>UDP</Type>
+  <RmsConnect>false</RmsConnect>
+  <LogFilePath>D:\SpreadTrade\</LogFilePath>
+  <SymbolFilter>D:\SpreadTrade\Config\</SymbolFilter>
+  <BackUpPath_1>172.16.2.184</BackUpPath_1>
+  <BackUpPath_2>172.16.2.153</BackUpPath_2>
+  <BackUpFilePath>D$\Trade Position for All\Desk Position\Vinod\SpreadTrade</BackUpFilePath>
+  <BackUpDailyTradeFilePath>D$\Trade Position for All\Desk Position\TradeFile</BackUpDailyTradeFilePath>
+  <EnterLots>25</EnterLots>
+  <AllowStrategy>91,111,121,2211,888,1221,1331</AllowStrategy>
+  <NiftyButterflyMargin>35000</NiftyButterflyMargin>
+  <BankNiftyButterflyMargin>20000</BankNiftyButterflyMargin>
+  <NiftyButterflyExtraMargin>12000</NiftyButterflyExtraMargin>
+  <BankNiftyButterflyExtraMargin>3000</BankNiftyButterflyExtraMargin>
+  <Nifty1331Margin>35000</Nifty1331Margin>
+  <BankNifty1331Margin>20000</BankNifty1331Margin>
+  <Nifty1331ExtraMargin>12000</Nifty1331ExtraMargin>
+  <BankNifty1331ExtraMargin>3000</BankNifty1331ExtraMargin>
+  <StrikeDifference>500</StrikeDifference>
+</SystemConfiguration>

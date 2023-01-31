@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\bin\Release\ArisDev.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\bin\Release\ArisDev.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\obj\Release\ArisDev.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\obj\Release\ArisDev.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\obj\Release\ArisDev.csprojResolveAssemblyReference.cache

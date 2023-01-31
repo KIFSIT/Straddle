@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\NSE API\NSE API\bin\Release\NSE API.dll
+c:\users\administrator\documents\visual studio 2010\Projects\NSE API\NSE API\bin\Release\NSE API.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\NSE API\NSE API\obj\Release\NSE API.dll
+c:\users\administrator\documents\visual studio 2010\Projects\NSE API\NSE API\obj\Release\NSE API.pdb

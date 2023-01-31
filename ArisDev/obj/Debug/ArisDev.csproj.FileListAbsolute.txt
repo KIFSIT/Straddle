@@ -1,0 +1,586 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\bin\Debug\Sockets.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\bin\Debug\Interop.XceedZipLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\bin\Debug\Sockets.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\bin\Debug\ArisDev.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\bin\Debug\ArisDev.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\obj\Debug\ArisDev.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\obj\Debug\ArisDev.pdb
+\\DEvserver\Training\dharam\Test\ArisDev\bin\Debug\ArisDev.dll
+\\DEvserver\Training\dharam\Test\ArisDev\bin\Debug\ArisDev.pdb
+\\DEvserver\Training\dharam\Test\ArisDev\bin\Debug\MTApi.dll
+\\DEvserver\Training\dharam\Test\ArisDev\bin\Debug\MTCommon.dll
+\\DEvserver\Training\dharam\Test\ArisDev\obj\Debug\ArisDev.dll
+\\DEvserver\Training\dharam\Test\ArisDev\obj\Debug\ArisDev.pdb
+\\DEvserver\Training\dharam\Test\ArisDev\bin\Debug\Sockets.dll
+\\DEvserver\Training\dharam\Test\ArisDev\bin\Debug\Interop.XceedZipLib.dll
+\\DEvserver\Training\dharam\Test\ArisDev\bin\Debug\Sockets.pdb
+D:\DevDirectory\branches\ArisTrader\ArisDev\bin\Debug\ArisDev.dll
+D:\DevDirectory\branches\ArisTrader\ArisDev\bin\Debug\ArisDev.pdb
+D:\DevDirectory\branches\ArisTrader\ArisDev\bin\Debug\Sockets.dll
+D:\DevDirectory\branches\ArisTrader\ArisDev\bin\Debug\Interop.XceedZipLib.dll
+D:\DevDirectory\branches\ArisTrader\ArisDev\bin\Debug\Sockets.pdb
+D:\DevDirectory\branches\ArisTrader\ArisDev\obj\Debug\ArisDev.dll
+D:\DevDirectory\branches\ArisTrader\ArisDev\obj\Debug\ArisDev.pdb
+D:\DevDirectory\branches\ArisTrader\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\Vinod\ArisTrader\ArisDev\bin\Debug\ArisDev.dll
+D:\Vinod\ArisTrader\ArisDev\bin\Debug\ArisDev.pdb
+D:\Vinod\ArisTrader\ArisDev\obj\Debug\ArisDev.dll
+D:\Vinod\ArisTrader\ArisDev\obj\Debug\ArisDev.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\bin\Debug\Atomic.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.pdb
+D:\old data\data\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\old data\data\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.pdb
+D:\old data\data\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.dll
+D:\old data\data\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.pdb
+D:\old data\data\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.dll
+D:\old data\data\ArisTraderOptions\ArisDev\bin\Debug\Atomic.dll
+D:\old data\data\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.pdb
+D:\old data\data\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.xml
+D:\old data\data\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.dll
+D:\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.dll
+D:\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.pdb
+D:\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.dll
+D:\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\Atomic.dll
+D:\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.pdb
+D:\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.xml
+D:\old data\data\Con-Rev\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\old data\data\Con-Rev\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.dll
+D:\old data\data\Con-Rev\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.pdb
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.dll
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.pdb
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.dll
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\Atomic.dll
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.pdb
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.xml
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\ArisDev\obj\Debug\ResolveAssemblyReference.cache
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.dll
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.pdb
+D:\New folder\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.dll
+D:\New folder\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.pdb
+D:\New folder\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.dll
+D:\New folder\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Atomic.dll
+D:\New folder\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.pdb
+D:\New folder\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.xml
+D:\New folder\ArisTraderOptions\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\New folder\ArisTraderOptions\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.dll
+D:\New folder\ArisTraderOptions\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.pdb
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.dll
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.pdb
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.dll
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Atomic.dll
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.pdb
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.xml
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.dll
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.pdb
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.pdb
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\ArisDev.pdb
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Atomic.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.pdb
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\ArisDev\bin\Debug\Disruptor.xml
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\ArisDev\obj\Debug\ArisDev.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\ArisDev.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\ArisDev.pdb
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\Disruptor.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\Atomic.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\Disruptor.pdb
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\Disruptor.xml
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\obj\Debug\ArisDev.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\obj\Debug\ArisDev.pdb
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\obj\Debug\ArisDev.pdb
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\ArisDev.dll
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\ArisDev.pdb
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\Disruptor.dll
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\Atomic.dll
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\Disruptor.pdb
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\bin\Debug\Disruptor.xml
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\ArisDev\obj\Debug\ArisDev.dll
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\ArisDev\bin\Debug\ArisDev.dll
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\ArisDev\bin\Debug\ArisDev.pdb
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\ArisDev\bin\Debug\Disruptor.dll
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\ArisDev\bin\Debug\Atomic.dll
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\ArisDev\bin\Debug\Disruptor.pdb
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\ArisDev\bin\Debug\Disruptor.xml
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\ArisDev\obj\Debug\ArisDev.dll
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\ArisDev\obj\Debug\ArisDev.pdb
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\ArisDev\obj\Debug\ArisDev.pdb
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\ArisDev\bin\Debug\ArisDev.dll
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\ArisDev\bin\Debug\ArisDev.pdb
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\ArisDev\bin\Debug\Disruptor.dll
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\ArisDev\bin\Debug\Atomic.dll
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\ArisDev\bin\Debug\Disruptor.pdb
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\ArisDev\bin\Debug\Disruptor.xml
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\ArisDev\obj\Debug\ArisDev.dll
+D:\home done\BankNifty_1_3_3_1\ArisDev\bin\Debug\ArisDev.dll
+D:\home done\BankNifty_1_3_3_1\ArisDev\bin\Debug\ArisDev.pdb
+D:\home done\BankNifty_1_3_3_1\ArisDev\bin\Debug\Disruptor.dll
+D:\home done\BankNifty_1_3_3_1\ArisDev\bin\Debug\Atomic.dll
+D:\home done\BankNifty_1_3_3_1\ArisDev\bin\Debug\Disruptor.pdb
+D:\home done\BankNifty_1_3_3_1\ArisDev\bin\Debug\Disruptor.xml
+D:\home done\BankNifty_1_3_3_1\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\home done\BankNifty_1_3_3_1\ArisDev\obj\Debug\ArisDev.dll
+D:\home done\BankNifty_1_3_3_1\ArisDev\obj\Debug\ArisDev.pdb
+D:\home done\box trade\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\home done\box trade\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.pdb
+D:\home done\box trade\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.dll
+D:\home done\box trade\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.pdb
+D:\home done\box trade\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.dll
+D:\home done\box trade\BankNifty_Box_Trade\ArisDev\bin\Debug\Atomic.dll
+D:\home done\box trade\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.pdb
+D:\home done\box trade\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.xml
+D:\home done\box trade\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.dll
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.dll
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.pdb
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.dll
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\ArisDev\bin\Debug\Atomic.dll
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.pdb
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.xml
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.dll
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.pdb
+D:\ok dine\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.dll
+D:\ok dine\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.pdb
+D:\ok dine\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.dll
+D:\ok dine\BankNifty_Box_Trade\ArisDev\bin\Debug\Atomic.dll
+D:\ok dine\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.pdb
+D:\ok dine\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.xml
+D:\ok dine\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\ok dine\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.dll
+D:\ok dine\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.pdb
+D:\New folder (4)\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.dll
+D:\New folder (4)\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.pdb
+D:\New folder (4)\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.dll
+D:\New folder (4)\BankNifty_Box_Trade\ArisDev\bin\Debug\Atomic.dll
+D:\New folder (4)\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.pdb
+D:\New folder (4)\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.xml
+D:\New folder (4)\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\New folder (4)\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.dll
+D:\New folder (4)\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.pdb
+D:\work done testing pending\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.dll
+D:\work done testing pending\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.pdb
+D:\work done testing pending\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.dll
+D:\work done testing pending\BankNifty_Box_Trade\ArisDev\bin\Debug\Atomic.dll
+D:\work done testing pending\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.pdb
+D:\work done testing pending\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.xml
+D:\work done testing pending\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\work done testing pending\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.dll
+D:\work done testing pending\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.pdb
+D:\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.dll
+D:\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.pdb
+D:\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.dll
+D:\BankNifty_Box_Trade\ArisDev\bin\Debug\Atomic.dll
+D:\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.pdb
+D:\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.xml
+D:\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.dll
+D:\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.pdb
+D:\new modify\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\new modify\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.pdb
+D:\new modify\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.dll
+D:\new modify\BankNifty_Box_Trade\ArisDev\bin\Debug\ArisDev.pdb
+D:\new modify\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.dll
+D:\new modify\BankNifty_Box_Trade\ArisDev\bin\Debug\Atomic.dll
+D:\new modify\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.pdb
+D:\new modify\BankNifty_Box_Trade\ArisDev\bin\Debug\Disruptor.xml
+D:\new modify\BankNifty_Box_Trade\ArisDev\obj\Debug\ArisDev.dll
+D:\new modify\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\new modify\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.pdb
+D:\new modify\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.dll
+D:\new modify\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.pdb
+D:\new modify\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.dll
+D:\new modify\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Atomic.dll
+D:\new modify\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.pdb
+D:\new modify\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.xml
+D:\new modify\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.dll
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.dll
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.pdb
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.dll
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Atomic.dll
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.pdb
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.xml
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.dll
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.pdb
+D:\17032019\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\17032019\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.pdb
+D:\17032019\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.dll
+D:\17032019\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.pdb
+D:\17032019\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.dll
+D:\17032019\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Atomic.dll
+D:\17032019\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.pdb
+D:\17032019\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.xml
+D:\17032019\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.dll
+D:\box\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.dll
+D:\box\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.pdb
+D:\box\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.dll
+D:\box\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Atomic.dll
+D:\box\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.pdb
+D:\box\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.xml
+D:\box\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\box\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.dll
+D:\box\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.pdb
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.dll
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\ArisDev.pdb
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.dll
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\Atomic.dll
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.pdb
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\ArisDev\bin\Debug\Disruptor.xml
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.dll
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\ArisDev\obj\Debug\ArisDev.pdb
+D:\Vinod 06042019 work\OptionStrategy\ArisDev\bin\Debug\ArisDev.dll
+D:\Vinod 06042019 work\OptionStrategy\ArisDev\bin\Debug\ArisDev.pdb
+D:\Vinod 06042019 work\OptionStrategy\ArisDev\bin\Debug\Disruptor.dll
+D:\Vinod 06042019 work\OptionStrategy\ArisDev\bin\Debug\Atomic.dll
+D:\Vinod 06042019 work\OptionStrategy\ArisDev\bin\Debug\Disruptor.pdb
+D:\Vinod 06042019 work\OptionStrategy\ArisDev\bin\Debug\Disruptor.xml
+D:\Vinod 06042019 work\OptionStrategy\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\Vinod 06042019 work\OptionStrategy\ArisDev\obj\Debug\ArisDev.dll
+D:\Vinod 06042019 work\OptionStrategy\ArisDev\obj\Debug\ArisDev.pdb
+D:\New Production Code\OptionStrategy\ArisDev\bin\Debug\ArisDev.dll
+D:\New Production Code\OptionStrategy\ArisDev\bin\Debug\ArisDev.pdb
+D:\New Production Code\OptionStrategy\ArisDev\bin\Debug\Disruptor.dll
+D:\New Production Code\OptionStrategy\ArisDev\bin\Debug\Atomic.dll
+D:\New Production Code\OptionStrategy\ArisDev\bin\Debug\Disruptor.pdb
+D:\New Production Code\OptionStrategy\ArisDev\bin\Debug\Disruptor.xml
+D:\New Production Code\OptionStrategy\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\New Production Code\OptionStrategy\ArisDev\obj\Debug\ArisDev.dll
+D:\New Production Code\OptionStrategy\ArisDev\obj\Debug\ArisDev.pdb
+D:\New Production Code\OptionStrategy_23052019\ArisDev\bin\Debug\ArisDev.dll
+D:\New Production Code\OptionStrategy_23052019\ArisDev\bin\Debug\ArisDev.pdb
+D:\New Production Code\OptionStrategy_23052019\ArisDev\bin\Debug\Disruptor.dll
+D:\New Production Code\OptionStrategy_23052019\ArisDev\bin\Debug\Atomic.dll
+D:\New Production Code\OptionStrategy_23052019\ArisDev\bin\Debug\Disruptor.pdb
+D:\New Production Code\OptionStrategy_23052019\ArisDev\bin\Debug\Disruptor.xml
+D:\New Production Code\OptionStrategy_23052019\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\New Production Code\OptionStrategy_23052019\ArisDev\obj\Debug\ArisDev.dll
+D:\New Production Code\OptionStrategy_23052019\ArisDev\obj\Debug\ArisDev.pdb
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\ArisDev\bin\Debug\ArisDev.dll
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\ArisDev\bin\Debug\ArisDev.pdb
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\ArisDev\bin\Debug\Disruptor.dll
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\ArisDev\bin\Debug\Atomic.dll
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\ArisDev\bin\Debug\Disruptor.pdb
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\ArisDev\bin\Debug\Disruptor.xml
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\ArisDev\obj\Debug\ArisDev.dll
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\ArisDev\obj\Debug\ArisDev.pdb
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\ArisDev\obj\Debug\ArisDev.pdb
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\ArisDev\bin\Debug\ArisDev.dll
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\ArisDev\bin\Debug\ArisDev.pdb
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\ArisDev\bin\Debug\Disruptor.dll
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\ArisDev\bin\Debug\Atomic.dll
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\ArisDev\bin\Debug\Disruptor.pdb
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\ArisDev\bin\Debug\Disruptor.xml
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\ArisDev\bin\Debug\Atomic.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.xml
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.pdb
+D:\Add Rule Strategy\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.dll
+D:\Add Rule Strategy\IV_calc_2Legs\ArisDev\bin\Debug\ArisDev.pdb
+D:\Add Rule Strategy\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.dll
+D:\Add Rule Strategy\IV_calc_2Legs\ArisDev\bin\Debug\Atomic.dll
+D:\Add Rule Strategy\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.pdb
+D:\Add Rule Strategy\IV_calc_2Legs\ArisDev\bin\Debug\Disruptor.xml
+D:\Add Rule Strategy\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\Add Rule Strategy\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.dll
+D:\Add Rule Strategy\IV_calc_2Legs\ArisDev\obj\Debug\ArisDev.pdb
+D:\SpreadTrade_1_0_3\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\SpreadTrade_1_0_3\ArisDev\obj\Debug\ArisDev.pdb
+D:\SpreadTrade_1_0_3\ArisDev\bin\Debug\ArisDev.dll
+D:\SpreadTrade_1_0_3\ArisDev\bin\Debug\ArisDev.pdb
+D:\SpreadTrade_1_0_3\ArisDev\bin\Debug\Disruptor.dll
+D:\SpreadTrade_1_0_3\ArisDev\bin\Debug\Atomic.dll
+D:\SpreadTrade_1_0_3\ArisDev\bin\Debug\Disruptor.pdb
+D:\SpreadTrade_1_0_3\ArisDev\bin\Debug\Disruptor.xml
+D:\SpreadTrade_1_0_3\ArisDev\obj\Debug\ArisDev.dll
+D:\backup for Prod\SpreadTrade_1_0_5\ArisDev\bin\Debug\ArisDev.dll
+D:\backup for Prod\SpreadTrade_1_0_5\ArisDev\bin\Debug\ArisDev.pdb
+D:\backup for Prod\SpreadTrade_1_0_5\ArisDev\bin\Debug\Disruptor.dll
+D:\backup for Prod\SpreadTrade_1_0_5\ArisDev\bin\Debug\Atomic.dll
+D:\backup for Prod\SpreadTrade_1_0_5\ArisDev\bin\Debug\Disruptor.pdb
+D:\backup for Prod\SpreadTrade_1_0_5\ArisDev\bin\Debug\Disruptor.xml
+D:\backup for Prod\SpreadTrade_1_0_5\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\backup for Prod\SpreadTrade_1_0_5\ArisDev\obj\Debug\ArisDev.dll
+D:\backup for Prod\SpreadTrade_1_0_5\ArisDev\obj\Debug\ArisDev.pdb
+D:\backup for Prod\SpreadTrade_1_0_6\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\backup for Prod\SpreadTrade_1_0_6\ArisDev\obj\Debug\ArisDev.pdb
+D:\backup for Prod\SpreadTrade_1_0_6\ArisDev\bin\Debug\ArisDev.dll
+D:\backup for Prod\SpreadTrade_1_0_6\ArisDev\bin\Debug\ArisDev.pdb
+D:\backup for Prod\SpreadTrade_1_0_6\ArisDev\bin\Debug\Disruptor.dll
+D:\backup for Prod\SpreadTrade_1_0_6\ArisDev\bin\Debug\Atomic.dll
+D:\backup for Prod\SpreadTrade_1_0_6\ArisDev\bin\Debug\Disruptor.pdb
+D:\backup for Prod\SpreadTrade_1_0_6\ArisDev\bin\Debug\Disruptor.xml
+D:\backup for Prod\SpreadTrade_1_0_6\ArisDev\obj\Debug\ArisDev.dll
+D:\SpreadTrade_1_0_8\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\SpreadTrade_1_0_8\ArisDev\obj\Debug\ArisDev.pdb
+D:\SpreadTrade_1_0_8\ArisDev\bin\Debug\ArisDev.dll
+D:\SpreadTrade_1_0_8\ArisDev\bin\Debug\ArisDev.pdb
+D:\SpreadTrade_1_0_8\ArisDev\bin\Debug\Disruptor.dll
+D:\SpreadTrade_1_0_8\ArisDev\bin\Debug\Atomic.dll
+D:\SpreadTrade_1_0_8\ArisDev\bin\Debug\Disruptor.pdb
+D:\SpreadTrade_1_0_8\ArisDev\bin\Debug\Disruptor.xml
+D:\SpreadTrade_1_0_8\ArisDev\obj\Debug\ArisDev.dll
+D:\SpreadTrade_2_0_0\ArisDev\bin\Debug\ArisDev.dll
+D:\SpreadTrade_2_0_0\ArisDev\bin\Debug\ArisDev.pdb
+D:\SpreadTrade_2_0_0\ArisDev\bin\Debug\Disruptor.dll
+D:\SpreadTrade_2_0_0\ArisDev\bin\Debug\Atomic.dll
+D:\SpreadTrade_2_0_0\ArisDev\bin\Debug\Disruptor.pdb
+D:\SpreadTrade_2_0_0\ArisDev\bin\Debug\Disruptor.xml
+D:\SpreadTrade_2_0_0\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\SpreadTrade_2_0_0\ArisDev\obj\Debug\ArisDev.dll
+D:\SpreadTrade_2_0_0\ArisDev\obj\Debug\ArisDev.pdb
+D:\backup for Prod\SpreadTrade_2_0_6\ArisDev\bin\Debug\ArisDev.dll
+D:\backup for Prod\SpreadTrade_2_0_6\ArisDev\bin\Debug\ArisDev.pdb
+D:\backup for Prod\SpreadTrade_2_0_6\ArisDev\bin\Debug\Disruptor.dll
+D:\backup for Prod\SpreadTrade_2_0_6\ArisDev\bin\Debug\Atomic.dll
+D:\backup for Prod\SpreadTrade_2_0_6\ArisDev\bin\Debug\Disruptor.pdb
+D:\backup for Prod\SpreadTrade_2_0_6\ArisDev\bin\Debug\Disruptor.xml
+D:\backup for Prod\SpreadTrade_2_0_6\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\backup for Prod\SpreadTrade_2_0_6\ArisDev\obj\Debug\ArisDev.dll
+D:\backup for Prod\SpreadTrade_2_0_6\ArisDev\obj\Debug\ArisDev.pdb
+D:\Production_Deploy\New folder (2)\ArisDev\bin\Debug\ArisDev.dll
+D:\Production_Deploy\New folder (2)\ArisDev\bin\Debug\ArisDev.pdb
+D:\Production_Deploy\New folder (2)\ArisDev\bin\Debug\Disruptor.dll
+D:\Production_Deploy\New folder (2)\ArisDev\bin\Debug\Atomic.dll
+D:\Production_Deploy\New folder (2)\ArisDev\bin\Debug\Disruptor.pdb
+D:\Production_Deploy\New folder (2)\ArisDev\bin\Debug\Disruptor.xml
+D:\Production_Deploy\New folder (2)\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\Production_Deploy\New folder (2)\ArisDev\obj\Debug\ArisDev.dll
+D:\Production_Deploy\New folder (2)\ArisDev\obj\Debug\ArisDev.pdb
+D:\SpreadTrade_3_0_5\ArisDev\bin\Debug\ArisDev.dll
+D:\SpreadTrade_3_0_5\ArisDev\bin\Debug\ArisDev.pdb
+D:\SpreadTrade_3_0_5\ArisDev\bin\Debug\Disruptor.dll
+D:\SpreadTrade_3_0_5\ArisDev\bin\Debug\Atomic.dll
+D:\SpreadTrade_3_0_5\ArisDev\bin\Debug\Disruptor.pdb
+D:\SpreadTrade_3_0_5\ArisDev\bin\Debug\Disruptor.xml
+D:\SpreadTrade_3_0_5\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\SpreadTrade_3_0_5\ArisDev\obj\Debug\ArisDev.dll
+D:\SpreadTrade_3_0_5\ArisDev\obj\Debug\ArisDev.pdb
+D:\SpreadTrade_4_0_0\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\SpreadTrade_4_0_0\ArisDev\obj\Debug\ArisDev.pdb
+D:\SpreadTrade_4_0_0\ArisDev\bin\Debug\ArisDev.dll
+D:\SpreadTrade_4_0_0\ArisDev\bin\Debug\ArisDev.pdb
+D:\SpreadTrade_4_0_0\ArisDev\bin\Debug\Disruptor.dll
+D:\SpreadTrade_4_0_0\ArisDev\bin\Debug\Atomic.dll
+D:\SpreadTrade_4_0_0\ArisDev\bin\Debug\Disruptor.pdb
+D:\SpreadTrade_4_0_0\ArisDev\bin\Debug\Disruptor.xml
+D:\SpreadTrade_4_0_0\ArisDev\obj\Debug\ArisDev.dll
+D:\SpreadTrade_4_0_1\ArisDev\bin\Debug\ArisDev.dll
+D:\SpreadTrade_4_0_1\ArisDev\bin\Debug\ArisDev.pdb
+D:\SpreadTrade_4_0_1\ArisDev\bin\Debug\Disruptor.dll
+D:\SpreadTrade_4_0_1\ArisDev\bin\Debug\Atomic.dll
+D:\SpreadTrade_4_0_1\ArisDev\bin\Debug\Disruptor.pdb
+D:\SpreadTrade_4_0_1\ArisDev\bin\Debug\Disruptor.xml
+D:\SpreadTrade_4_0_1\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\SpreadTrade_4_0_1\ArisDev\obj\Debug\ArisDev.dll
+D:\SpreadTrade_4_0_1\ArisDev\obj\Debug\ArisDev.pdb
+D:\Code Back Up\SpreadTrade_4_0_4\ArisDev\bin\Debug\ArisDev.dll
+D:\Code Back Up\SpreadTrade_4_0_4\ArisDev\bin\Debug\ArisDev.pdb
+D:\Code Back Up\SpreadTrade_4_0_4\ArisDev\bin\Debug\Disruptor.dll
+D:\Code Back Up\SpreadTrade_4_0_4\ArisDev\bin\Debug\Atomic.dll
+D:\Code Back Up\SpreadTrade_4_0_4\ArisDev\bin\Debug\Disruptor.pdb
+D:\Code Back Up\SpreadTrade_4_0_4\ArisDev\bin\Debug\Disruptor.xml
+D:\Code Back Up\SpreadTrade_4_0_4\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\Code Back Up\SpreadTrade_4_0_4\ArisDev\obj\Debug\ArisDev.dll
+D:\Code Back Up\SpreadTrade_4_0_4\ArisDev\obj\Debug\ArisDev.pdb
+D:\Spread_Trade\SpreadTrade_5_0_3\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\Spread_Trade\SpreadTrade_5_0_3\ArisDev\obj\Debug\ArisDev.pdb
+D:\Spread_Trade\SpreadTrade_5_0_3\ArisDev\bin\Debug\ArisDev.dll
+D:\Spread_Trade\SpreadTrade_5_0_3\ArisDev\bin\Debug\ArisDev.pdb
+D:\Spread_Trade\SpreadTrade_5_0_3\ArisDev\bin\Debug\Disruptor.dll
+D:\Spread_Trade\SpreadTrade_5_0_3\ArisDev\bin\Debug\Atomic.dll
+D:\Spread_Trade\SpreadTrade_5_0_3\ArisDev\bin\Debug\Disruptor.pdb
+D:\Spread_Trade\SpreadTrade_5_0_3\ArisDev\bin\Debug\Disruptor.xml
+D:\Spread_Trade\SpreadTrade_5_0_3\ArisDev\obj\Debug\ArisDev.dll
+D:\SpreadTrade_5_0_5\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\SpreadTrade_5_0_5\ArisDev\obj\Debug\ArisDev.pdb
+D:\SpreadTrade_5_0_5\ArisDev\bin\Debug\ArisDev.dll
+D:\SpreadTrade_5_0_5\ArisDev\bin\Debug\ArisDev.pdb
+D:\SpreadTrade_5_0_5\ArisDev\bin\Debug\Disruptor.dll
+D:\SpreadTrade_5_0_5\ArisDev\bin\Debug\Atomic.dll
+D:\SpreadTrade_5_0_5\ArisDev\bin\Debug\Disruptor.pdb
+D:\SpreadTrade_5_0_5\ArisDev\bin\Debug\Disruptor.xml
+D:\SpreadTrade_5_0_5\ArisDev\obj\Debug\ArisDev.dll
+D:\StopLoss and draw down\SpreadTrade_5_0_6\ArisDev\bin\Debug\ArisDev.dll
+D:\StopLoss and draw down\SpreadTrade_5_0_6\ArisDev\bin\Debug\ArisDev.pdb
+D:\StopLoss and draw down\SpreadTrade_5_0_6\ArisDev\bin\Debug\Disruptor.dll
+D:\StopLoss and draw down\SpreadTrade_5_0_6\ArisDev\bin\Debug\Atomic.dll
+D:\StopLoss and draw down\SpreadTrade_5_0_6\ArisDev\bin\Debug\Disruptor.pdb
+D:\StopLoss and draw down\SpreadTrade_5_0_6\ArisDev\bin\Debug\Disruptor.xml
+D:\StopLoss and draw down\SpreadTrade_5_0_6\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\StopLoss and draw down\SpreadTrade_5_0_6\ArisDev\obj\Debug\ArisDev.dll
+D:\StopLoss and draw down\SpreadTrade_5_0_6\ArisDev\obj\Debug\ArisDev.pdb
+D:\StraddleTrade_2_0_2\ArisDev\bin\Debug\ArisDev.dll
+D:\StraddleTrade_2_0_2\ArisDev\bin\Debug\ArisDev.pdb
+D:\StraddleTrade_2_0_2\ArisDev\bin\Debug\Disruptor.dll
+D:\StraddleTrade_2_0_2\ArisDev\bin\Debug\Atomic.dll
+D:\StraddleTrade_2_0_2\ArisDev\bin\Debug\Disruptor.pdb
+D:\StraddleTrade_2_0_2\ArisDev\bin\Debug\Disruptor.xml
+D:\StraddleTrade_2_0_2\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\StraddleTrade_2_0_2\ArisDev\obj\Debug\ArisDev.dll
+D:\StraddleTrade_2_0_2\ArisDev\obj\Debug\ArisDev.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\ArisDev\bin\Debug\ArisDev.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\ArisDev\bin\Debug\ArisDev.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\ArisDev\bin\Debug\Disruptor.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\ArisDev\bin\Debug\Atomic.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\ArisDev\bin\Debug\Disruptor.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\ArisDev\bin\Debug\Disruptor.xml
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\ArisDev\obj\Debug\ArisDev.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\ArisDev\obj\Debug\ArisDev.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\ArisDev\bin\Debug\ArisDev.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\ArisDev\bin\Debug\ArisDev.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\ArisDev\bin\Debug\Disruptor.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\ArisDev\bin\Debug\Atomic.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\ArisDev\bin\Debug\Disruptor.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\ArisDev\bin\Debug\Disruptor.xml
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\ArisDev\obj\Debug\ArisDev.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\ArisDev\obj\Debug\ArisDev.pdb
+D:\StraddleTrade_3_0_8\ArisDev\obj\Debug\ArisDev.csprojResolveAssemblyReference.cache
+D:\StraddleTrade_3_0_8\ArisDev\obj\Debug\ArisDev.pdb
+D:\StraddleTrade_3_0_8\ArisDev\bin\Debug\ArisDev.dll
+D:\StraddleTrade_3_0_8\ArisDev\bin\Debug\ArisDev.pdb
+D:\StraddleTrade_3_0_8\ArisDev\bin\Debug\Disruptor.dll
+D:\StraddleTrade_3_0_8\ArisDev\bin\Debug\Atomic.dll
+D:\StraddleTrade_3_0_8\ArisDev\bin\Debug\Disruptor.pdb
+D:\StraddleTrade_3_0_8\ArisDev\bin\Debug\Disruptor.xml
+D:\StraddleTrade_3_0_8\ArisDev\obj\Debug\ArisDev.dll

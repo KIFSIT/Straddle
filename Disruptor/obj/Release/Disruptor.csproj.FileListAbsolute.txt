@@ -1,0 +1,23 @@
+D:\ArisCtcl2\Target\Bin\Disruptor.XML
+D:\ArisCtcl2\Target\Bin\Disruptor.dll
+D:\ArisCtcl2\Target\Bin\Disruptor.pdb
+D:\ArisCtcl2\Disruptor\obj\Release\ResolveAssemblyReference.cache
+D:\ArisCtcl2\Disruptor\obj\Release\Disruptor.dll
+D:\ArisCtcl2\Disruptor\obj\Release\Disruptor.pdb
+D:\RMS\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.XML
+D:\RMS\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.dll
+D:\RMS\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.pdb
+D:\RMS\Central RMS Admin(2.x.x)\Disruptor\obj\Release\ResolveAssemblyReference.cache
+D:\RMS\Central RMS Admin(2.x.x)\Disruptor\obj\Release\Disruptor.dll
+D:\RMS\Central RMS Admin(2.x.x)\Disruptor\obj\Release\Disruptor.pdb
+D:\vivek handover\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.dll
+D:\vivek handover\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.pdb
+D:\vivek handover\Central RMS Admin(2.x.x)\Disruptor\obj\Release\ResolveAssemblyReference.cache
+D:\vivek handover\Central RMS Admin(2.x.x)\Disruptor\obj\Release\Disruptor.dll
+D:\vivek handover\Central RMS Admin(2.x.x)\Disruptor\obj\Release\Disruptor.pdb
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.XML
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.dll
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.pdb
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Disruptor\obj\Release\ResolveAssemblyReference.cache
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Disruptor\obj\Release\Disruptor.dll
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Disruptor\obj\Release\Disruptor.pdb

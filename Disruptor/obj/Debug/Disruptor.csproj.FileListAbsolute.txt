@@ -1,0 +1,381 @@
+C:\Users\Harsh\Downloads\Disruptor-net-master\Target\Bin\Disruptor.dll
+C:\Users\Harsh\Downloads\Disruptor-net-master\Target\Bin\Disruptor.pdb
+C:\Users\Harsh\Downloads\Disruptor-net-master\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+C:\Users\Harsh\Downloads\Disruptor-net-master\Disruptor\obj\Debug\Disruptor.dll
+C:\Users\Harsh\Downloads\Disruptor-net-master\Disruptor\obj\Debug\Disruptor.pdb
+E:\R n D\R n D Projects\ArisCtcl\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+E:\R n D\R n D Projects\ArisCtcl\Disruptor\obj\Debug\Disruptor.dll
+E:\R n D\R n D Projects\ArisCtcl\Disruptor\obj\Debug\Disruptor.pdb
+E:\R n D\R n D Projects\ArisCtcl\Target\Bin\Disruptor.dll
+E:\R n D\R n D Projects\ArisCtcl\Target\Bin\Disruptor.pdb
+\\devserver\Strategy Setups\$CODE\ArisCtcl1\Target\Bin\Disruptor.dll
+\\devserver\Strategy Setups\$CODE\ArisCtcl1\Target\Bin\Disruptor.pdb
+\\devserver\Strategy Setups\$CODE\ArisCtcl1\Disruptor\obj\Debug\Disruptor.dll
+\\devserver\Strategy Setups\$CODE\ArisCtcl1\Disruptor\obj\Debug\Disruptor.pdb
+\\devserver\Strategy Setups\$CODE\ArisCtcl1\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ArisCtcl1\Target\Bin\Disruptor.XML
+C:\Users\admin\Desktop\ArisCtcl1\Target\Bin\Disruptor.dll
+C:\Users\admin\Desktop\ArisCtcl1\Target\Bin\Disruptor.pdb
+C:\Users\admin\Desktop\ArisCtcl1\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ArisCtcl1\Disruptor\obj\Debug\Disruptor.dll
+C:\Users\admin\Desktop\ArisCtcl1\Disruptor\obj\Debug\Disruptor.pdb
+C:\Users\admin\Desktop\ArisCtcl1 Mock Code\Target\Bin\Disruptor.dll
+C:\Users\admin\Desktop\ArisCtcl1 Mock Code\Target\Bin\Disruptor.pdb
+C:\Users\admin\Desktop\ArisCtcl1 Mock Code\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ArisCtcl1 Mock Code\Disruptor\obj\Debug\Disruptor.dll
+C:\Users\admin\Desktop\ArisCtcl1 Mock Code\Disruptor\obj\Debug\Disruptor.pdb
+D:\DevDirectory\branches\ArisCtcl1 Mock Code with Entry-Exit\Target\Bin\Disruptor.dll
+D:\DevDirectory\branches\ArisCtcl1 Mock Code with Entry-Exit\Target\Bin\Disruptor.pdb
+D:\DevDirectory\branches\ArisCtcl1 Mock Code with Entry-Exit\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\DevDirectory\branches\ArisCtcl1 Mock Code with Entry-Exit\Disruptor\obj\Debug\Disruptor.dll
+D:\DevDirectory\branches\ArisCtcl1 Mock Code with Entry-Exit\Disruptor\obj\Debug\Disruptor.pdb
+D:\DevDirectory\branches\ArisCtcl2\Target\Bin\Disruptor.dll
+D:\DevDirectory\branches\ArisCtcl2\Target\Bin\Disruptor.pdb
+D:\DevDirectory\branches\ArisCtcl2\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\DevDirectory\branches\ArisCtcl2\Disruptor\obj\Debug\Disruptor.dll
+D:\DevDirectory\branches\ArisCtcl2\Disruptor\obj\Debug\Disruptor.pdb
+D:\ArisCtcl2\Target\Bin\Disruptor.XML
+D:\ArisCtcl2\Target\Bin\Disruptor.dll
+D:\ArisCtcl2\Target\Bin\Disruptor.pdb
+D:\ArisCtcl2\Disruptor\obj\Debug\ResolveAssemblyReference.cache
+D:\ArisCtcl2\Disruptor\obj\Debug\Disruptor.dll
+D:\ArisCtcl2\Disruptor\obj\Debug\Disruptor.pdb
+D:\v handover\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\ResolveAssemblyReference.cache
+D:\v handover\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.dll
+D:\v handover\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.pdb
+D:\v handover\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.dll
+D:\v handover\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.pdb
+D:\vivek handover\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.dll
+D:\vivek handover\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.pdb
+D:\vivek handover\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\ResolveAssemblyReference.cache
+D:\vivek handover\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.dll
+D:\vivek handover\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.pdb
+D:\RMS\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.dll
+D:\RMS\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.pdb
+D:\RMS\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\ResolveAssemblyReference.cache
+D:\RMS\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.dll
+D:\RMS\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.pdb
+D:\devdirectory1\Branches\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\devdirectory1\Branches\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.dll
+D:\devdirectory1\Branches\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.pdb
+D:\devdirectory1\Branches\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.dll
+D:\devdirectory1\Branches\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.pdb
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.dll
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.pdb
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\ResolveAssemblyReference.cache
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.dll
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Disruptor\obj\Debug\Disruptor.pdb
+D:\RMS 3.0.0\Central RMS Admin(2.x.x)\Target\Bin\Disruptor.XML
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\Target\Bin\Disruptor.XML
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\Target\Bin\Disruptor.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\old data\data\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.pdb
+D:\old data\data\ArisTraderOptions\Target\Bin\Disruptor.XML
+D:\old data\data\ArisTraderOptions\Target\Bin\Disruptor.pdb
+D:\old data\data\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.dll
+D:\old data\data\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\old data\data\Con-Rev\ArisTraderOptions\Target\Bin\Disruptor.XML
+D:\old data\data\Con-Rev\ArisTraderOptions\Target\Bin\Disruptor.dll
+D:\old data\data\Con-Rev\ArisTraderOptions\Target\Bin\Disruptor.pdb
+D:\old data\data\Con-Rev\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.dll
+D:\old data\data\Con-Rev\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.pdb
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\Target\Bin\Disruptor.XML
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\Target\Bin\Disruptor.pdb
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\Disruptor\obj\Debug\ResolveAssemblyReference.cache
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.dll
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.pdb
+D:\vinod\GETSClient\old data\data\Con-Rev\ArisTraderOptions\Target\Bin\Disruptor.dll
+D:\New folder\ArisTraderOptions\ArisTraderOptions\Target\Bin\Disruptor.XML
+D:\New folder\ArisTraderOptions\ArisTraderOptions\Target\Bin\Disruptor.pdb
+D:\New folder\ArisTraderOptions\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.dll
+D:\New folder\ArisTraderOptions\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.pdb
+D:\New folder\ArisTraderOptions\ArisTraderOptions\Target\Bin\Disruptor.dll
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\Target\Bin\Disruptor.XML
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\Target\Bin\Disruptor.pdb
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.dll
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.pdb
+D:\socketConnection\socketConnection\ArisTraderOptions\ArisTraderOptions\Target\Bin\Disruptor.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.pdb
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\Target\Bin\Disruptor.XML
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\Target\Bin\Disruptor.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\Target\Bin\Disruptor.pdb
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\ArisTraderOptions\Disruptor\obj\Debug\Disruptor.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Target\Bin\Disruptor.XML
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Target\Bin\Disruptor.pdb
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Disruptor\obj\Debug\Disruptor.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Disruptor\obj\Debug\Disruptor.pdb
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Target\Bin\Disruptor.dll
+D:\aris with disrutor\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Disruptor\obj\Debug\Disruptor.pdb
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Target\Bin\Disruptor.XML
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Target\Bin\Disruptor.pdb
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Disruptor\obj\Debug\Disruptor.dll
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions\Butter_Fly_Option\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\Target\Bin\Disruptor.XML
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\Target\Bin\Disruptor.pdb
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\Disruptor\obj\Debug\Disruptor.dll
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\Disruptor\obj\Debug\Disruptor.pdb
+D:\22012019 CODE N TXT\18Sept2018 Live code - ButterFly\ArisTraderOptions(BUTTERFLY)\Butter_Fly_Option\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\Disruptor\obj\Debug\Disruptor.pdb
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\Target\Bin\Disruptor.XML
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\Target\Bin\Disruptor.pdb
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\Disruptor\obj\Debug\Disruptor.dll
+C:\Users\USER\Desktop\BankNifty_1_3_3_1\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\home done\BankNifty_1_3_3_1\Target\Bin\Disruptor.XML
+D:\home done\BankNifty_1_3_3_1\Target\Bin\Disruptor.pdb
+D:\home done\BankNifty_1_3_3_1\Disruptor\obj\Debug\Disruptor.dll
+D:\home done\BankNifty_1_3_3_1\Disruptor\obj\Debug\Disruptor.pdb
+D:\home done\BankNifty_1_3_3_1\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\home done\box trade\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.pdb
+D:\home done\box trade\BankNifty_Box_Trade\Target\Bin\Disruptor.XML
+D:\home done\box trade\BankNifty_Box_Trade\Target\Bin\Disruptor.pdb
+D:\home done\box trade\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.dll
+D:\home done\box trade\BankNifty_Box_Trade\Target\Bin\Disruptor.dll
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\Target\Bin\Disruptor.XML
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\Target\Bin\Disruptor.pdb
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.dll
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.pdb
+D:\work Pending in BankNifty Strategy\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\ok dine\BankNifty_Box_Trade\Target\Bin\Disruptor.XML
+D:\ok dine\BankNifty_Box_Trade\Target\Bin\Disruptor.pdb
+D:\ok dine\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.dll
+D:\ok dine\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.pdb
+D:\ok dine\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\New folder (4)\BankNifty_Box_Trade\Target\Bin\Disruptor.XML
+D:\New folder (4)\BankNifty_Box_Trade\Target\Bin\Disruptor.pdb
+D:\New folder (4)\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\New folder (4)\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.dll
+D:\New folder (4)\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.pdb
+D:\work done testing pending\BankNifty_Box_Trade\Target\Bin\Disruptor.XML
+D:\work done testing pending\BankNifty_Box_Trade\Target\Bin\Disruptor.pdb
+D:\work done testing pending\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.dll
+D:\work done testing pending\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.pdb
+D:\work done testing pending\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\BankNifty_Box_Trade\Target\Bin\Disruptor.XML
+D:\BankNifty_Box_Trade\Target\Bin\Disruptor.pdb
+D:\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.dll
+D:\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.pdb
+D:\BankNifty_Box_Trade\Target\Bin\Disruptor.dll
+D:\new modify\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.pdb
+D:\new modify\BankNifty_Box_Trade\Target\Bin\Disruptor.XML
+D:\new modify\BankNifty_Box_Trade\Target\Bin\Disruptor.pdb
+D:\new modify\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.dll
+D:\new modify\BankNifty_Box_Trade\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\new modify\BankNifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.pdb
+D:\new modify\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.XML
+D:\new modify\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.pdb
+D:\new modify\BankNifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.dll
+D:\new modify\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.dll
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.XML
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.pdb
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.dll
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.pdb
+D:\15032019 Code backup\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.dll
+D:\17032019\BankNifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.pdb
+D:\17032019\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.XML
+D:\17032019\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.dll
+D:\17032019\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.pdb
+D:\17032019\BankNifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.dll
+D:\box\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.pdb
+D:\box\BankNifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.dll
+D:\box\BankNifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.pdb
+D:\box\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.XML
+D:\box\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.dll
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.XML
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.dll
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\BankNifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\Target\Bin\Disruptor.XML
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\new code box in Nifty\Nifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\Target\Bin\Disruptor.XML
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\Target\Bin\Disruptor.dll
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\Target\Bin\Disruptor.pdb
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.dll
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.pdb
+D:\Vinod 06042019 work\Nifty_Box_Trade abs gui\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\Vinod 06042019 work\OptionStrategy\Target\Bin\Disruptor.XML
+D:\Vinod 06042019 work\OptionStrategy\Target\Bin\Disruptor.dll
+D:\Vinod 06042019 work\OptionStrategy\Target\Bin\Disruptor.pdb
+D:\Vinod 06042019 work\OptionStrategy\Disruptor\obj\Debug\Disruptor.dll
+D:\Vinod 06042019 work\OptionStrategy\Disruptor\obj\Debug\Disruptor.pdb
+D:\New Production Code\OptionStrategy\Target\Bin\Disruptor.XML
+D:\New Production Code\OptionStrategy\Target\Bin\Disruptor.pdb
+D:\New Production Code\OptionStrategy\Disruptor\obj\Debug\Disruptor.dll
+D:\New Production Code\OptionStrategy\Disruptor\obj\Debug\Disruptor.pdb
+D:\New Production Code\OptionStrategy\Target\Bin\Disruptor.dll
+D:\New Production Code\OptionStrategy_23052019\Target\Bin\Disruptor.XML
+D:\New Production Code\OptionStrategy_23052019\Target\Bin\Disruptor.pdb
+D:\New Production Code\OptionStrategy_23052019\Disruptor\obj\Debug\Disruptor.dll
+D:\New Production Code\OptionStrategy_23052019\Disruptor\obj\Debug\Disruptor.pdb
+D:\New Production Code\OptionStrategy_23052019\Target\Bin\Disruptor.dll
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\Target\Bin\Disruptor.XML
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\Target\Bin\Disruptor.pdb
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\Disruptor\obj\Debug\Disruptor.dll
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\Disruptor\obj\Debug\Disruptor.pdb
+D:\New Production Code\rule modify Option_Strategy\new strategy\OptionStrategy_23052019\Target\Bin\Disruptor.dll
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\Disruptor\obj\Debug\Disruptor.pdb
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\Target\Bin\Disruptor.XML
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\Target\Bin\Disruptor.pdb
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\Disruptor\obj\Debug\Disruptor.dll
+D:\New Production Code\Live current Option Strategy\rule modify Option_Strategy\new strategy\OptionStrategy_Version1.0.7\Target\Bin\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\Target\Bin\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\OptionStrategy_Version1.0.8\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Add List for token in OptionStrategy_version 1.0.9\OptionStrategy_Version1.0.8\Target\Bin\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg\Add List for token in Box_234\Box_234\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\Target\Bin\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\2Leg_3Leg_4Leg_Ioc\Add List for token in Box_234\Box_234\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\calculation all IV only Single\IV_calc\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\calculation all IV only Two Legs\IV_calc_2Legs\Target\Bin\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\calculation all IV only Two Legs\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\Target\Bin\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\NetPosition created with cal 2 Leg IV\calculation all IV only Two Legs\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\Target\Bin\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\IV_calc_2Legs\Target\Bin\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Shortcuts IV_calc_2Legs\IV_calc_2Legs\Target\Bin\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\Target\Bin\Disruptor.XML
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\Target\Bin\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.dll
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.pdb
+D:\24032019 Work done\RMS Intermediate Same exec not open\Calculation IV 2 Legs\Direct BroadCast\Calculation Ratio with 2 Socket\Strategy expand\Add_Multiple_Rule_In_Different_Strategy\IV_calc_2Legs\Target\Bin\Disruptor.dll
+D:\Add Rule Strategy\IV_calc_2Legs\Target\Bin\Disruptor.XML
+D:\Add Rule Strategy\IV_calc_2Legs\Target\Bin\Disruptor.pdb
+D:\Add Rule Strategy\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.dll
+D:\Add Rule Strategy\IV_calc_2Legs\Disruptor\obj\Debug\Disruptor.pdb
+D:\Add Rule Strategy\IV_calc_2Legs\Target\Bin\Disruptor.dll
+D:\SpreadTrade_1_0_3\Disruptor\obj\Debug\Disruptor.pdb
+D:\SpreadTrade_1_0_3\Target\Bin\Disruptor.XML
+D:\SpreadTrade_1_0_3\Target\Bin\Disruptor.pdb
+D:\SpreadTrade_1_0_3\Disruptor\obj\Debug\Disruptor.dll
+D:\SpreadTrade_1_0_3\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\backup for Prod\SpreadTrade_1_0_5\Target\Bin\Disruptor.XML
+D:\backup for Prod\SpreadTrade_1_0_5\Target\Bin\Disruptor.dll
+D:\backup for Prod\SpreadTrade_1_0_5\Target\Bin\Disruptor.pdb
+D:\backup for Prod\SpreadTrade_1_0_5\Disruptor\obj\Debug\Disruptor.dll
+D:\backup for Prod\SpreadTrade_1_0_5\Disruptor\obj\Debug\Disruptor.pdb
+D:\backup for Prod\SpreadTrade_1_0_6\Disruptor\obj\Debug\Disruptor.pdb
+D:\backup for Prod\SpreadTrade_1_0_6\Target\Bin\Disruptor.XML
+D:\backup for Prod\SpreadTrade_1_0_6\Target\Bin\Disruptor.pdb
+D:\backup for Prod\SpreadTrade_1_0_6\Disruptor\obj\Debug\Disruptor.dll
+D:\backup for Prod\SpreadTrade_1_0_6\Target\Bin\Disruptor.dll
+D:\SpreadTrade_1_0_8\Disruptor\obj\Debug\Disruptor.pdb
+D:\SpreadTrade_1_0_8\Target\Bin\Disruptor.XML
+D:\SpreadTrade_1_0_8\Target\Bin\Disruptor.pdb
+D:\SpreadTrade_1_0_8\Disruptor\obj\Debug\Disruptor.dll
+D:\SpreadTrade_1_0_8\Target\Bin\Disruptor.dll
+D:\SpreadTrade_2_0_0\Target\Bin\Disruptor.XML
+D:\SpreadTrade_2_0_0\Target\Bin\Disruptor.pdb
+D:\SpreadTrade_2_0_0\Disruptor\obj\Debug\Disruptor.dll
+D:\SpreadTrade_2_0_0\Disruptor\obj\Debug\Disruptor.pdb
+D:\SpreadTrade_2_0_0\Target\Bin\Disruptor.dll
+D:\backup for Prod\SpreadTrade_2_0_6\Target\Bin\Disruptor.XML
+D:\backup for Prod\SpreadTrade_2_0_6\Target\Bin\Disruptor.pdb
+D:\backup for Prod\SpreadTrade_2_0_6\Disruptor\obj\Debug\Disruptor.dll
+D:\backup for Prod\SpreadTrade_2_0_6\Disruptor\obj\Debug\Disruptor.pdb
+D:\backup for Prod\SpreadTrade_2_0_6\Target\Bin\Disruptor.dll
+D:\Production_Deploy\New folder (2)\Target\Bin\Disruptor.XML
+D:\Production_Deploy\New folder (2)\Target\Bin\Disruptor.pdb
+D:\Production_Deploy\New folder (2)\Disruptor\obj\Debug\Disruptor.dll
+D:\Production_Deploy\New folder (2)\Disruptor\obj\Debug\Disruptor.pdb
+D:\Production_Deploy\New folder (2)\Target\Bin\Disruptor.dll
+D:\SpreadTrade_3_0_5\Target\Bin\Disruptor.XML
+D:\SpreadTrade_3_0_5\Target\Bin\Disruptor.pdb
+D:\SpreadTrade_3_0_5\Disruptor\obj\Debug\Disruptor.dll
+D:\SpreadTrade_3_0_5\Disruptor\obj\Debug\Disruptor.pdb
+D:\SpreadTrade_3_0_5\Target\Bin\Disruptor.dll
+D:\SpreadTrade_4_0_0\Disruptor\obj\Debug\Disruptor.pdb
+D:\SpreadTrade_4_0_0\Target\Bin\Disruptor.XML
+D:\SpreadTrade_4_0_0\Target\Bin\Disruptor.dll
+D:\SpreadTrade_4_0_0\Target\Bin\Disruptor.pdb
+D:\SpreadTrade_4_0_0\Disruptor\obj\Debug\Disruptor.dll
+D:\SpreadTrade_4_0_1\Target\Bin\Disruptor.pdb
+D:\SpreadTrade_4_0_1\Disruptor\obj\Debug\Disruptor.dll
+D:\SpreadTrade_4_0_1\Disruptor\obj\Debug\Disruptor.pdb
+D:\SpreadTrade_4_0_1\Target\Bin\Disruptor.XML
+D:\SpreadTrade_4_0_1\Target\Bin\Disruptor.dll
+D:\Code Back Up\SpreadTrade_4_0_4\Target\Bin\Disruptor.XML
+D:\Code Back Up\SpreadTrade_4_0_4\Target\Bin\Disruptor.pdb
+D:\Code Back Up\SpreadTrade_4_0_4\Disruptor\obj\Debug\Disruptor.dll
+D:\Code Back Up\SpreadTrade_4_0_4\Disruptor\obj\Debug\Disruptor.pdb
+D:\Code Back Up\SpreadTrade_4_0_4\Target\Bin\Disruptor.dll
+D:\Spread_Trade\SpreadTrade_5_0_3\Disruptor\obj\Debug\Disruptor.pdb
+D:\Spread_Trade\SpreadTrade_5_0_3\Target\Bin\Disruptor.XML
+D:\Spread_Trade\SpreadTrade_5_0_3\Target\Bin\Disruptor.dll
+D:\Spread_Trade\SpreadTrade_5_0_3\Target\Bin\Disruptor.pdb
+D:\Spread_Trade\SpreadTrade_5_0_3\Disruptor\obj\Debug\Disruptor.dll
+D:\SpreadTrade_5_0_5\Disruptor\obj\Debug\Disruptor.pdb
+D:\SpreadTrade_5_0_5\Target\Bin\Disruptor.XML
+D:\SpreadTrade_5_0_5\Target\Bin\Disruptor.pdb
+D:\SpreadTrade_5_0_5\Disruptor\obj\Debug\Disruptor.dll
+D:\SpreadTrade_5_0_5\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Target\Bin\Disruptor.XML
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Target\Bin\Disruptor.pdb
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Disruptor\obj\Debug\Disruptor.dll
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Disruptor\obj\Debug\Disruptor.pdb
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Target\Bin\Disruptor.dll
+D:\StraddleTrade_2_0_2\Target\Bin\Disruptor.XML
+D:\StraddleTrade_2_0_2\Target\Bin\Disruptor.pdb
+D:\StraddleTrade_2_0_2\Disruptor\obj\Debug\Disruptor.dll
+D:\StraddleTrade_2_0_2\Disruptor\obj\Debug\Disruptor.pdb
+D:\StraddleTrade_2_0_2\Target\Bin\Disruptor.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Target\Bin\Disruptor.XML
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Target\Bin\Disruptor.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Disruptor\obj\Debug\Disruptor.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Disruptor\obj\Debug\Disruptor.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Target\Bin\Disruptor.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Target\Bin\Disruptor.XML
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Target\Bin\Disruptor.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Target\Bin\Disruptor.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Disruptor\obj\Debug\Disruptor.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Disruptor\obj\Debug\Disruptor.pdb
+D:\StraddleTrade_3_0_8\Disruptor\obj\Debug\Disruptor.pdb
+D:\StraddleTrade_3_0_8\Target\Bin\Disruptor.XML
+D:\StraddleTrade_3_0_8\Target\Bin\Disruptor.pdb
+D:\StraddleTrade_3_0_8\Disruptor\obj\Debug\Disruptor.dll
+D:\StraddleTrade_3_0_8\Disruptor\obj\Debug\Disruptor.csprojResolveAssemblyReference.cache

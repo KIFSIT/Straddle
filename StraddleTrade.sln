@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Straddle", "Options\Straddle.csproj", "{BD2959C5-C942-4315-B905-CA6AFAAB28D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArisDev", "ArisDev\ArisDev.csproj", "{B08E31FD-F89C-4122-B364-E659EFBF0883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disruptor", "Disruptor\Disruptor.csproj", "{37FBDBE1-8524-4489-B082-CC109B0F5EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2959C5-C942-4315-B905-CA6AFAAB28D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2959C5-C942-4315-B905-CA6AFAAB28D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2959C5-C942-4315-B905-CA6AFAAB28D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2959C5-C942-4315-B905-CA6AFAAB28D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08E31FD-F89C-4122-B364-E659EFBF0883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08E31FD-F89C-4122-B364-E659EFBF0883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08E31FD-F89C-4122-B364-E659EFBF0883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08E31FD-F89C-4122-B364-E659EFBF0883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FBDBE1-8524-4489-B082-CC109B0F5EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FBDBE1-8524-4489-B082-CC109B0F5EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FBDBE1-8524-4489-B082-CC109B0F5EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FBDBE1-8524-4489-B082-CC109B0F5EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

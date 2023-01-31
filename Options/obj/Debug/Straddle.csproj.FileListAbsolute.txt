@@ -1,0 +1,244 @@
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\bin\Debug\Straddle.exe
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\bin\Debug\Straddle.pdb
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\bin\Debug\Disruptor.dll
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\bin\Debug\Sockets.dll
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\bin\Debug\Atomic.dll
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\bin\Debug\Disruptor.pdb
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\bin\Debug\Disruptor.xml
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.csprojResolveAssemblyReference.cache
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.Analysis.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.AppMain.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.BuyStopLoss.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.ContractPanel.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.DD_BuyParameter.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.DD_SellParameter.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.ImmediateUnwind.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.ImmediateWind.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.Login.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.LSL_Strangle.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.LSL_StrangleStopLoss.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.MainStraddle.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.ManualTradeEntry.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.MARKETWATCH.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.NetPositionMin_Max.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.OptionWatch.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.Properties.Resources.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.RuleModifyJodi.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.SellStopLoss.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.SingleLeg.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.Stradder.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.StraddleJodi.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.StraddleSellStopLoss.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.Stragle.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.Strategy.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.TLI_Strangle.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.VARAnalysis.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.csproj.GenerateResource.Cache
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.exe.licenses
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.exe
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.pdb
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.SqOffTime_Rule.resources
+D:\StopLoss and draw down\SpreadTrade_5_0_6\Options\obj\Debug\Straddle.StrategySqOff.resources
+D:\StraddleTrade_2_0_2\Options\bin\Debug\Straddle.exe
+D:\StraddleTrade_2_0_2\Options\bin\Debug\Straddle.pdb
+D:\StraddleTrade_2_0_2\Options\bin\Debug\Disruptor.dll
+D:\StraddleTrade_2_0_2\Options\bin\Debug\Sockets.dll
+D:\StraddleTrade_2_0_2\Options\bin\Debug\Atomic.dll
+D:\StraddleTrade_2_0_2\Options\bin\Debug\Disruptor.pdb
+D:\StraddleTrade_2_0_2\Options\bin\Debug\Disruptor.xml
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.csprojResolveAssemblyReference.cache
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Analysis.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.AppMain.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.BuyStopLoss.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.ContractPanel.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.DD_BuyParameter.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.DD_SellParameter.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.ImmediateUnwind.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.ImmediateWind.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Login.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.LSL_Strangle.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.LSL_StrangleStopLoss.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.MainStraddle.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.ManualTradeEntry.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.MARKETWATCH.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.NetPositionMin_Max.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.OptionWatch.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Properties.Resources.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.RuleModifyJodi.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.SellStopLoss.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.SingleLeg.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.SqOffTime_Rule.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Stradder.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.StraddleJodi.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.StraddleSellStopLoss.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Stragle.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Strategy.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.StrategySqOff.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.TLI_CE_Calender.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.TLI_PE_Calender.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.TLI_Strangle.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.VARAnalysis.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.csproj.GenerateResource.Cache
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.exe.licenses
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.exe
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.pdb
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Position_Action.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Initial_Trailing.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.ParameterInput.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.GuiLevelPayoff.resources
+D:\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.StrategySelection.resources
+D:\StraddleTrade_2_0_2\Options\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.exe
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\bin\Debug\Straddle.exe
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\bin\Debug\Straddle.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\bin\Debug\Disruptor.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\bin\Debug\Sockets.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\bin\Debug\Atomic.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\bin\Debug\Disruptor.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\bin\Debug\Disruptor.xml
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.csprojResolveAssemblyReference.cache
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Analysis.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.AppMain.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.BuyStopLoss.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.ContractPanel.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.DD_BuyParameter.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.DD_SellParameter.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.GuiLevelPayoff.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.ImmediateUnwind.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.ImmediateWind.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Initial_Trailing.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Login.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.LSL_Strangle.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.LSL_StrangleStopLoss.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.MainStraddle.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.ManualTradeEntry.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.MARKETWATCH.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.NetPositionMin_Max.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.OptionWatch.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.ParameterInput.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Position_Action.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Properties.Resources.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.RuleModifyJodi.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.SellStopLoss.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.SingleLeg.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.SqOffTime_Rule.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Stradder.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.StraddleJodi.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.StraddleSellStopLoss.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Stragle.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.Strategy.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.StrategySelection.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.StrategySqOff.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.TLI_CE_Calender.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.TLI_PE_Calender.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.TLI_Strangle.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.VARAnalysis.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.csproj.GenerateResource.Cache
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.exe.licenses
+D:\MarketData_Trade_Straddle\StraddleTrade_2_0_2\Options\obj\Debug\Straddle.RuleAction.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\bin\Debug\Straddle.exe
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\bin\Debug\Straddle.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\bin\Debug\Disruptor.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\bin\Debug\Sockets.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\bin\Debug\Atomic.dll
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\bin\Debug\Disruptor.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\bin\Debug\Disruptor.xml
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.csprojResolveAssemblyReference.cache
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Analysis.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.AppMain.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.BuyOrder.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.BuyStopLoss.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.ContractPanel.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.DD_BuyParameter.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.DD_SellParameter.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.GuiLevelPayoff.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.ImmediateUnwind.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.ImmediateWind.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Initial_Trailing.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.LimitSet.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Login.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.LSL_Strangle.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.LSL_StrangleStopLoss.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.MainStraddle.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.ManualTradeEntry.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.MARKETWATCH.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.NetPositionMin_Max.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.OptionWatch.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.ParameterInput.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Position_Action.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Properties.Resources.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.RuleAction.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.RuleModifyJodi.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.SellOrder.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.SellStopLoss.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.SingleLeg.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.SqOffTime_Rule.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Stradder.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.StraddleJodi.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.StraddleSellStopLoss.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Stragle.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Strategy.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.StrategySelection.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.StrategySqOff.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.TLI_CE_Calender.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.TLI_PE_Calender.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.TLI_Strangle.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.VARAnalysis.resources
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.csproj.GenerateResource.Cache
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.exe.licenses
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.exe
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.pdb
+D:\MarketData_Trade_Straddle\StraddleTrade_3_0_8\Options\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.exe
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.pdb
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.csprojResolveAssemblyReference.cache
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Analysis.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.AppMain.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.BuyOrder.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.BuyStopLoss.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.ContractPanel.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.DD_BuyParameter.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.DD_SellParameter.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.GuiLevelPayoff.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.ImmediateUnwind.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.ImmediateWind.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Initial_Trailing.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.LimitSet.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Login.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.LSL_Strangle.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.LSL_StrangleStopLoss.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.MainStraddle.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.ManualTradeEntry.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.MARKETWATCH.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.NetPositionMin_Max.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.OptionWatch.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.ParameterInput.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Position_Action.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Properties.Resources.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.RuleAction.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.RuleModifyJodi.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.SellOrder.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.SellStopLoss.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.SingleLeg.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.SqOffTime_Rule.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Stradder.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.StraddleJodi.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.StraddleSellStopLoss.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Stragle.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.Strategy.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.StrategySelection.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.StrategySqOff.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.TLI_CE_Calender.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.TLI_PE_Calender.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.TLI_Strangle.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.VARAnalysis.resources
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.csproj.GenerateResource.Cache
+D:\StraddleTrade_3_0_8\Options\obj\Debug\Straddle.exe.licenses
+D:\StraddleTrade_3_0_8\Options\bin\Debug\Straddle.exe
+D:\StraddleTrade_3_0_8\Options\bin\Debug\Straddle.pdb
+D:\StraddleTrade_3_0_8\Options\bin\Debug\Disruptor.dll
+D:\StraddleTrade_3_0_8\Options\bin\Debug\Sockets.dll
+D:\StraddleTrade_3_0_8\Options\bin\Debug\Atomic.dll
+D:\StraddleTrade_3_0_8\Options\bin\Debug\Disruptor.pdb
+D:\StraddleTrade_3_0_8\Options\bin\Debug\Disruptor.xml

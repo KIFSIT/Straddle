@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\NSE API\NSE API\bin\Debug\NSE API.dll
+c:\users\administrator\documents\visual studio 2010\Projects\NSE API\NSE API\bin\Debug\NSE API.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\NSE API\NSE API\obj\Debug\NSE API.dll
+c:\users\administrator\documents\visual studio 2010\Projects\NSE API\NSE API\obj\Debug\NSE API.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\NSE API\NSE API\obj\Debug\NSE API.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\bin\Debug\GenericParsing.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\bin\Debug\Sockets.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\bin\Debug\Interop.XceedZipLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NSE API\NSE API\bin\Debug\Sockets.pdb
